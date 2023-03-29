@@ -29,7 +29,8 @@
 |  6   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
 |  7   | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
 |  8   | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
-|  9   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  9   | [煖風遲來](煖風遲來) |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  10   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
 
 ## 参赛方式
 
