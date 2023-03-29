@@ -24,14 +24,15 @@
 |  1   | [DavidWang19](DavidWang19)     |  44 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
 |  2   | [熊师傅](otakuma) | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
 |  3   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  4   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
-|  5   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  6   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  7   | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
-|  8   | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
-|  9   | [煖風遲來](煖風遲來) |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
-|  10  | [cola](cola) |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
-|  10   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  4   | [Ns2Kracy](Ns2Kracy)     |  82 Bytes  |       Shell        | 作者很懒，什么都没有说.jpg |
+|  5   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+|  6   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  7   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  8   | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
+|  9   | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
+|  10   | [煖風遲來](煖風遲來) |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  11  | [cola](cola) |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
+|  12   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
 
 ## 参赛方式
 
