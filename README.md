@@ -25,7 +25,7 @@
 |  2   | [熊师傅](otakuma) | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
 |  3   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
 |  4   | [Ns2Kracy](Ns2Kracy)     |  82 Bytes  |       Shell        | 作者很懒，什么都没有说.jpg |
-|  5   | [HChenZi](HChenZi)     |  86 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+|  5   | [HChenZi](HChenZi)     |  87 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
 |  6   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
 |  7   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
 |  8   | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
