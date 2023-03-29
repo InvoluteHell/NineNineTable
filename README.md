@@ -35,6 +35,7 @@
 |  12  | [cola](cola) |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
 |  14  | [d3ara1n](d3ara1n) |  215 Bytes  |       CSharp      | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
 |  14   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  14   | [LuoRenMu](Luorenmu) |  12 KiloByte  |       Java           | 你就说能不能跑吧 |
 
 ## 参赛方式
 
