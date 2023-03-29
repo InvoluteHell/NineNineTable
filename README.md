@@ -19,13 +19,13 @@
 **请参赛的朋友自行修改自己的排名，未添加的视为没有参赛**  
 **Add your rank here and show off**
 
-
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
 | [DavidWang19](DavidWang19)                                   |  44 Bytes | Mathematica      | 作者很懒，什么都没有说.jpg |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
+| [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
@@ -48,7 +48,6 @@
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ 
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
-
 
 ## 参赛方式
 
