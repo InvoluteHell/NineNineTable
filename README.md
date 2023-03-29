@@ -21,11 +21,13 @@
 
 | 排名 |                             作者                             |   体积    |       语言       |  留言 |
 | :--: | :----------------------------------------------------------: | :-------: | :--------------: | :--------------: |
+
 |  1   | [DavidWang19](DavidWang19)     |  45 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
 |  2   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  3   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  4   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  5   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  3   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+|  4   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  5   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+|  6   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
 
 ## 参赛方式
 
