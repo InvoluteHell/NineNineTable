@@ -25,14 +25,15 @@
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
+| [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
 | [鬼才](鬼才)                                                   |  75 Bytes | Kotlin          | 作者很懒，什么都没有说.jpg  |
+| [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [uye](uye)                                                    |  80 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
-| [HChenZi](HChenZi)                                            |  90 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
 | [鼹鼠](鼹鼠)                                                   |  101 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
@@ -47,7 +48,7 @@
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ 
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
-| [Helloworld](Helloworld)                                     | 17155 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
+| [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
 
 ## 参赛方式
 

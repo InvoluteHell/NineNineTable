@@ -54,12 +54,27 @@ namespace NineNineTable.Test.OutputFormatter
             {
                 formatter.Output(new NineNineTableData()
                 {
-                    Multiplicand = 1,
+                    Multiplicand = i + 1,
                     Multiplier = 1,
                 });
             }
 
             output.Should().Contain(Environment.NewLine);
+        }
+
+        /// <summary>
+        /// Tests <see cref="NineNineTableConsoleOutputFormatter.Output(NineNineTableData)"/> with null value.
+        /// </summary>
+        [TestMethod]
+        public void TestOutputNull()
+        {
+            var formatter = new NineNineTableConsoleOutputFormatter(data => string.Empty)
+            {
+                OutputFunction = _ => { },
+            };
+
+            Action a = () => formatter.Output(default!);
+            a.Should().Throw<ArgumentNullException>();
         }
     }
 }
