@@ -43,6 +43,7 @@
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
+| [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ 
