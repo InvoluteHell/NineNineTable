@@ -1,0 +1,1 @@
+import Text.Printf;main=putStrLn$unlines[unwords[printf"%d*%d=%-2d" y x (x*y)|y<-[1..x]]|x<-[1..9::Int]]
