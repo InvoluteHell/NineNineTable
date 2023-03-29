@@ -21,7 +21,7 @@
 
 | 排名 |                             作者                             |   体积    |       语言       |  留言 |
 | :--: | :----------------------------------------------------------: | :-------: | :--------------: | :--------------: |
-|  1   | [DavidWang19](DavidWang19)     |  45 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
+|  1   | [DavidWang19](DavidWang19)     |  44 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
 |  2   | [熊师傅](otakuma) | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
 |  3   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
 |  4   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
