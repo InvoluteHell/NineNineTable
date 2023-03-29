@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineNineTable", "NineNineTable\NineNineTable.csproj", "{0E9FC4D5-205B-4737-B143-1A5CFE7124F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineNineTable.Test", "NineNineTable.Test\NineNineTable.Test.csproj", "{70E2DF6F-A3A6-4E68-82FD-9F289427C763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9FC4D5-205B-4737-B143-1A5CFE7124F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9FC4D5-205B-4737-B143-1A5CFE7124F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9FC4D5-205B-4737-B143-1A5CFE7124F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9FC4D5-205B-4737-B143-1A5CFE7124F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E2DF6F-A3A6-4E68-82FD-9F289427C763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E2DF6F-A3A6-4E68-82FD-9F289427C763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E2DF6F-A3A6-4E68-82FD-9F289427C763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E2DF6F-A3A6-4E68-82FD-9F289427C763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7DFFACC-1845-44E1-A84D-392A3DD23AE9}
+	EndGlobalSection
+EndGlobal
