@@ -23,6 +23,7 @@
 | :--: | :----------------------------------------------------------: | :-------: | :--------------: | :--------------: |
 |  1   | [DavidWang19](DavidWang19)     |  44 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
 |  2   | [熊师傅](otakuma) | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
+|  3   | [cnachen](cnachen)     |  71 Bytes  |       lua        | 作者很懒，什么都没有说.jpg |
 |  3   | [龟龟](guigui)     |  70 Bytes  |       Kotlin Script        | 作者很懒，什么都没有说.jpg |
 |  3   | [鬼才](鬼才)      |  75 Bytes | Kotlin    |  作者很懒，什么都没有说.jpg  |
 |  3   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
