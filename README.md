@@ -44,6 +44,7 @@
 | [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
+| [blueskybone](blueskybone)                                         |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [酱香大冰糕](酱香大冰糕)                                         |  116 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [bakashigure](bakashigure)                                    | 122 Bytes   | PHP             | 作者很懒，什么都没有说.jpg |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
