@@ -22,6 +22,7 @@
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
 | [DavidWang19](DavidWang19)                                   |  44 Bytes | Mathematica      | 作者很懒，什么都没有说.jpg |
+| [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
@@ -31,10 +32,12 @@
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
 | [鬼才](鬼才)                                                   |  75 Bytes | Kotlin          | 作者很懒，什么都没有说.jpg  |
+| [bakashigure](bakashigure)                                    | 76 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
 | [谦虚](谦虚)                                          |  77 Bytes  | JavaScript          | 作者很懒，什么都没有说.jpg |
 | [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [uye](uye)                                                    |  80 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
+| [奶油面包拳](奶油面包拳)                                        | 82 Bytes   | PHP            | PHP没有未来               |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
@@ -42,13 +45,14 @@
 | [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
+| [blueskybone](blueskybone)                                         |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [酱香大冰糕](酱香大冰糕)                                         |  116 Bytes  | C               | 作者很懒，什么都没有说.jpg |
-| [bakashigure](bakashigure)                                    | 122 Bytes   | PHP             | 作者很懒，什么都没有说.jpg |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
+| [javilak](javilak)                                              |  229 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [src](src)                                           |  286 Bytes  | Java             | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ 
@@ -65,6 +69,7 @@
 
 - 第一名：一箱难喝的无糖黑咖啡
 - 参与奖：随机抽一名，一箱难喝的无糖黑咖啡
+- 参与奖2: 随机抽一名, 一张 `KFC V50` 卡, 由[@bakashigure](bakashigure)提供
 
 ## 比赛时间
 
