@@ -32,6 +32,7 @@
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
 | [鬼才](鬼才)                                                   |  75 Bytes | Kotlin          | 作者很懒，什么都没有说.jpg  |
+| [bakashigure](bakashigure)                                    | 76 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
 | [谦虚](谦虚)                                          |  77 Bytes  | JavaScript          | 作者很懒，什么都没有说.jpg |
 | [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [uye](uye)                                                    |  80 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
@@ -46,7 +47,6 @@
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                         |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [酱香大冰糕](酱香大冰糕)                                         |  116 Bytes  | C               | 作者很懒，什么都没有说.jpg |
-| [bakashigure](bakashigure)                                    | 122 Bytes   | PHP             | 作者很懒，什么都没有说.jpg |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
