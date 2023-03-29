@@ -35,6 +35,7 @@
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
+| [blueskybone](blueskybone)                                              |  91 Bytes  | C        | 作者很懒，什么都没有说.jpg |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
 | [鼹鼠](鼹鼠)                                                   |  101 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
@@ -45,9 +46,11 @@
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
-| [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ 
+| [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
+
+
 
 ## 参赛方式
 
