@@ -1,1 +1,1 @@
-for b in range(1,10):print(*[f"{a}*{b}={a*b}"for a in range(1,b+1)])
+for b in range(10):print(*[f"{a+1}*{b}={a*b+b:<2}"for a in range(b)])
