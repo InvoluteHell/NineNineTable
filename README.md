@@ -35,7 +35,7 @@
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
-| [blueskybone](blueskybone)                                              |  91 Bytes  | C        | 作者很懒，什么都没有说.jpg |
+| [blueskybone](blueskybone)                                              |  97 Bytes  | C        | 作者很懒，什么都没有说.jpg |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
 | [鼹鼠](鼹鼠)                                                   |  101 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
