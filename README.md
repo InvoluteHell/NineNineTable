@@ -38,6 +38,7 @@
 | [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [奶油面包拳](奶油面包拳)                                        | 82 Bytes   | PHP            | PHP没有未来               |
+| [Horror Proton](horror-prpton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
