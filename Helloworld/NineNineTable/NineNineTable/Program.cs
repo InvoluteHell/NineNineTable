@@ -33,12 +33,11 @@ namespace NineNineTable
         internal static void Main(string[] args)
         {
             INumberEnumerator multiplicandEnumerator = new SequenceNumberEnumerator(NineNineTableStartingValue, NineNineTableEndingValue);
-            INumberEnumerator multiplierEnumerator = new SequenceNumberEnumerator(NineNineTableStartingValue, NineNineTableEndingValue);
 
             IOutputFormatter<NineNineTableData> outputFormatter = new NineNineTableConsoleOutputFormatter(data => $"{data.Multiplicand}*{data.Multiplier}={new NumberPairMultiplier(data.Multiplicand, data.Multiplier).Result}");
 
             var nineNineTable = multiplicandEnumerator
-                .SelectMany(multiplicand => multiplierEnumerator.Select(multiplier => (multiplicand, multiplier)))
+                .SelectMany(multiplicand => new SequenceNumberEnumerator(NineNineTableStartingValue, multiplicand).Select(multiplier => (multiplicand, multiplier)))
                 .Select(pair => new NineNineTableData()
                 {
                     Multiplicand = pair.multiplicand,

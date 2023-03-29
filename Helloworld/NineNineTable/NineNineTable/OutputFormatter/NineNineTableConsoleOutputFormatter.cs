@@ -6,7 +6,6 @@
 namespace NineNineTable.OutputFormatter
 {
     using System;
-    using NineNineTable.NumberMultiplier;
 
     /// <summary>
     /// The output formatter for nine nine table.
@@ -24,9 +23,9 @@ namespace NineNineTable.OutputFormatter
         private readonly Func<NineNineTableData, string> formatter;
 
         /// <summary>
-        /// The count of items printed. When it reaches 9, output a newline and reset this to 0.
+        /// The last multiplicand. When it changes, output a newline first.
         /// </summary>
-        private int count;
+        private int lastMultiplicand;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="NineNineTableConsoleOutputFormatter"/> class.
@@ -43,18 +42,16 @@ namespace NineNineTable.OutputFormatter
         /// <inheritdoc/>
         public void Output(NineNineTableData item)
         {
-            this.OutputFunction(this.formatter(item));
-            this.count++;
+            item = item ?? throw new ArgumentNullException(nameof(item));
 
-            if (this.count >= 9)
+            if (this.lastMultiplicand != 0 && this.lastMultiplicand != item.Multiplicand)
             {
                 this.OutputFunction(Environment.NewLine);
-                this.count = 0;
             }
-            else
-            {
-                this.OutputFunction(Separator);
-            }
+
+            this.lastMultiplicand = item.Multiplicand;
+            this.OutputFunction(this.formatter(item));
+            this.OutputFunction(Separator);
         }
     }
 }
