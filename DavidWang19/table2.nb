@@ -1,0 +1,1 @@
+Grid@Table[Row@{b,"*",a,"=",b*a},{a,9},{b,a}]

@@ -1,0 +1,1 @@
+function a(b){f=1;c=b;d='';while(c--)d+=`${f}x${b}=${f++*b} `;console.log(d);if(b==9)return;a(++b)}a(1)
