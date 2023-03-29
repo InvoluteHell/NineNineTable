@@ -27,7 +27,8 @@
 |  3   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
 |  4   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
 |  5   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  6   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+|  6   | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
+|  7   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
 
 ## 参赛方式
 
