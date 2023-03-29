@@ -1,0 +1,1 @@
+import woo.std;let mut i=1, mut j=1;for(;i<=9;i+=1)for(j=i;j<=9;j+=1)std::print(F"{j}x{i}={i*j}\t",j==9?"\n"|"");
