@@ -42,6 +42,7 @@
 |  14  | [d3ara1n](d3ara1n) |  215 Bytes  |       CSharp      | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
 |  14   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
 |  15   | [哥斯拉](哥斯拉) |  570 Bytes  |       C           | 累死了.jpg(还能有人比我大？ 
+|  15   | [LuoRenMu](Luorenmu) |  12 KiloByte  |       Java           | 你就说能不能跑吧 |
 
 ## 参赛方式
 
