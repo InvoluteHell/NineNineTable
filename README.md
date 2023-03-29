@@ -26,6 +26,7 @@
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
+| [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
@@ -37,11 +38,11 @@
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
-| [鼹鼠](鼹鼠)                                                   |  101 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [mnixry](mnixry)                                                   |  273 Bytes  | Python        | 摸了 |
 | [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
 | [知秋](FAll)                                                  |  117 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
+| [bakashigure](bakashigure)                                    | 122 Bytes   | PHP             | 作者很懒，什么都没有说.jpg |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
