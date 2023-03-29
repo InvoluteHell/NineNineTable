@@ -19,31 +19,31 @@
 **请参赛的朋友自行修改自己的排名，未添加的视为没有参赛**  
 **Add your rank here and show off**
 
-| 排名 |                             作者                             |   体积    |       语言       |  留言 |
-| :--: | :----------------------------------------------------------: | :-------: | :--------------: | :--------------: |
-|  1   | [DavidWang19](DavidWang19)     |  44 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
-|  2   | [熊师傅](otakuma) | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
-|  3   | [abai](abai) | 71 Bytes | Python| 摆了 |
-|  3   | [jcjrobert](jcjrobert) | 72 Bytes | Python | 作者不懒，什么都说了.gif |
-|  3   | [cnachen](cnachen)     |  71 Bytes  |       lua        | 作者很懒，什么都没有说.jpg |
-|  3   | [龟龟](guigui)     |  70 Bytes  |       Kotlin Script        | 作者很懒，什么都没有说.jpg |
-|  3   | [鬼才](鬼才)      |  75 Bytes | Kotlin    |  作者很懒，什么都没有说.jpg  |
-|  3   | [uye](uye)     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  4   | [Ns2Kracy](Ns2Kracy)     |  82 Bytes  |       Shell        | 作者很懒，什么都没有说.jpg |
-|  5   | [dragove](dragove) | 85 Bytes | Scala | 作者很懒，什么都没有说.jpg |
-|  5   | [HChenZi](HChenZi)     |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
-|  6   | [Alisa](Alisa)     |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  7   | [鼹鼠](鼹鼠)     |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
-|  8   | [Ykong](Ykong)     |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
-|  9   | [窝窝头](mr_cino)     |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
-|  10  | [知秋](FAll)     |  117 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
-|  11  | Konoha | 124Bytes | Python | 氵，好想要玛丽的手冲** |
-|  12  | [煖風遲來](煖風遲來) |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
-|  13  | [cola](cola) |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
-|  14  | [d3ara1n](d3ara1n) |  215 Bytes  |       CSharp      | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
-|  14   | [谓道之求](谓道之求) |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
-|  15   | [哥斯拉](哥斯拉) |  570 Bytes  |       C           | 累死了.jpg(还能有人比我大？ 
-|  15   | [LuoRenMu](Luorenmu) |  12 KiloByte  |       Java           | 你就说能不能跑吧 |
+|                             作者                             |   体积    |       语言       |  留言 |
+| :----------------------------------------------------------: | :-------: | :--------------: | :--------------: |
+| [DavidWang19](DavidWang19)     |  44 Bytes  |       Mathematica        | 作者很懒，什么都没有说.jpg |
+| [熊师傅](otakuma)              | 53 Bytes | Powershell |  作者很懒，什么都没有说.jpg |
+| [龟龟](guigui)                 |  70 Bytes  |       Kotlin Script        | 作者很懒，什么都没有说.jpg |
+| [cnachen](cnachen)             |  71 Bytes  |       lua        | 作者很懒，什么都没有说.jpg |
+| [abai](abai)                   | 71 Bytes | Python| 摆了 |
+| [jcjrobert](jcjrobert)         | 72 Bytes | Python | 作者不懒，什么都说了.gif |
+| [鬼才](鬼才)                    |  75 Bytes | Kotlin    |  作者很懒，什么都没有说.jpg  |
+| [uye](uye)                     |  80 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+| [Ns2Kracy](Ns2Kracy)           |  82 Bytes  |       Shell        | 作者很懒，什么都没有说.jpg |
+| [dragove](dragove)             | 85 Bytes | Scala | 作者很懒，什么都没有说.jpg |
+| [HChenZi](HChenZi)             |  90 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+| [Alisa](Alisa)                 |  91 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+| [鼹鼠](鼹鼠)                    |  101 Bytes  |       Python        | 作者很懒，什么都没有说.jpg |
+| [Ykong](Ykong)                 |  103 Bytes  |       Rust        | 作者很懒，什么都没有说.jpg |
+| [窝窝头](mr_cino)              |  113 Bytes  |       [Woolang](https://github.com/cinogama/woolang)        | 呜呜呜，窝窝头输了呜呜呜 |
+| [知秋](FAll)                   |  117 Bytes  |       nodejs        | 作者很懒，什么都没有说.jpg |
+| Konoha                         | 124 Bytes | Python | 氵，好想要玛丽的手冲** |
+| [煖風遲來](煖風遲來)            |  126 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+| [cola](cola)                  |  144 Bytes  |       C          | 带带萌新，大佬捞捞 |
+| [d3ara1n](d3ara1n)            |  215 Bytes  |       CSharp      | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
+| [谓道之求](谓道之求)            |  281 Bytes  |       Cpp           | 作者很懒，什么都没有说.jpg |
+| [哥斯拉](哥斯拉)               |  570 Bytes  |       C           | 累死了.jpg(还能有人比我大？ 
+| [LuoRenMu](Luorenmu)          |  12 KiloByte  |       Java           | 你就说能不能跑吧 |
 
 ## 参赛方式
 
