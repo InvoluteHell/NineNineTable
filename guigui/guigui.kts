@@ -1,1 +1,1 @@
-(1..9).forEach{i->(1..i).forEach{j->print("$i*$j=${i*j} ")};println()}
+for(i in 1..9){for(j in 1..i)print("$j*$i=${i*j} ");println()}
