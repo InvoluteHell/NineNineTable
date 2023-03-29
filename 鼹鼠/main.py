@@ -1,1 +1,1 @@
-print('\n'.join([''.join(['{}x{}={}'.format(j,i,i*j).ljust(9) for j in range(1,i+1)]) for i in range(1,10)]))
+for b in range(1,10):print(*[f"{a}*{b}={a*b}"for a in range(1,b+1)])
