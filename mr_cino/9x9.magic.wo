@@ -1,0 +1,1 @@
+import woo.std;using std;do [1,2,3,4,5,6,7,8,9]->\a=a->>\x=a->>\y=x>=y?F"{x}x{y}={x*y}\t"|"";;;->>\a=(a->>\e=e->print;,println());;
