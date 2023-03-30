@@ -1,4 +1,4 @@
-Butname: rank-actions
+name: rank-actions
 on: [push]
 jobs:
   rank:
