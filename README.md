@@ -51,7 +51,7 @@
 | [XiaoMiku01](XiaoMiku01)                                  |  100 Bytes  | Go        | 我不信go还能再压了 |
 | [酱香大冰糕](酱香大冰糕)                                        |  101 Bytes  | CPP               | 作者很懒，什么都没有说.jpg |
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
-| [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
+| [Ykong](Ykong)                                                |  79 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
