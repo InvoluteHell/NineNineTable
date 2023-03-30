@@ -26,7 +26,7 @@ $ lean ninenine.lean --run
 1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81
 ```
 
-## [ninenine-iota.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine-iota.lean) (112 Bytes)
+## [ninenine-iota.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine-iota.lean) (116 Bytes)
 
 ```
 $ lean ninenine-iota.lean --run
