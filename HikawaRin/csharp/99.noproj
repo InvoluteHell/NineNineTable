@@ -1,0 +1,1 @@
+<Project><UsingTask AssemblyFile="$(MSBuildToolsPath)\Microsoft.Build.Tasks.Core.dll" TaskFactory="RoslynCodeTaskFactory" TaskName="N"><Task><Code Type="Fragment" Language="cs"><![CDATA[int i=1,j;for(;i<=9;i++){var l="";for(j=1;j<=i;j++){l+=$"{i}*{j}={i*j,-3}";}Log.LogError(l);}return true;]]></Code></Task></UsingTask><Target Name="M" ><N/></Target></Project>
