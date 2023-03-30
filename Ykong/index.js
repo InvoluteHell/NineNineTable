@@ -1,1 +1,2 @@
-import * as r from "./ninenine";r.run()
+import * as r from "./ninenine";
+r.run()
