@@ -61,10 +61,10 @@
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
+| [kokic](kokic)                                               |  110 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
 | [BiDuang](BiDuang)                                            | 115 Bytes | Pascal        | 果然，大伙都已经忘却了老逼灯语言的存在...                 |
 | [XiaoX](XiaoX)                                                | 115 Bytes | JavaScript        | 菜！                  |
-| [kokic](kokic)                                               |  116 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [bigonion](bigonion)                                             | 128 Bytes  | Typescript       | markdown 输！ |
