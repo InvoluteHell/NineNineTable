@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda i:'\t'.join(list(map(lambda x:f'{x}*{i}={x*i}',range(1,i+1)))),range(1,10)))))
