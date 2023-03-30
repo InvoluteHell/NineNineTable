@@ -22,7 +22,7 @@
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
 | [lhhxxxxx](lhhxxxxx)                                             | 34 Bytes  | Mathematica       | 有人犯蠢了 |
-| [DavidWang19](DavidWang19)                                   |  36 Bytes | Mathematica      | 论Unicode |
+| [DavidWang19](DavidWang19)                                   |  34 Bytes | Mathematica      | 论Unicode |
 | [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
 | [Horror Proton](horror-proton)                                | 39 Bytes   | Mathematica       | 作者很懒，什么都没有说.jpg |
 | [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
@@ -60,10 +60,10 @@
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
-| [kokic](kokic)                                               |  147 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! | 
+| [kokic](kokic)                                               |  147 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
-| [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
-| [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
+| [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
+| [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
 | [mnixry](mnixry)                                              |  273 Bytes  | Python        | 摸了 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |

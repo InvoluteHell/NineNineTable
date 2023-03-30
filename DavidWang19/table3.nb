@@ -1,1 +1,1 @@
-Grid@Table[ij == i*j,{j,9},{i,j}]
+Grid@Table[ij==i*j,{j,9},{i,j}]
