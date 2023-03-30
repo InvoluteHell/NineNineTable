@@ -1,0 +1,27 @@
+<Project>
+
+    <UsingTask
+      AssemblyFile="$(MSBuildToolsPath)\Microsoft.Build.Tasks.Core.dll"
+      TaskFactory="RoslynCodeTaskFactory"
+      TaskName="NineNine" >
+        <Task>
+            <Code Type="Fragment" Language="cs">
+                <![CDATA[
+                    for (int i = 1; i <= 9; i++) {
+                        var line = "";
+                        for (int j = 1; j <= i; j++) {
+                            line += $"{i}*{j}={i*j, -2} ";
+                        }
+                        Log.LogMessage(MessageImportance.High, line);
+                    }
+                    return true;
+                ]]>
+            </Code>
+        </Task>
+    </UsingTask>
+
+    <Target Name="NineNineTable" >
+        <NineNine />
+    </Target>
+
+</Project>
