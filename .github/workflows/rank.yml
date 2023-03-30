@@ -10,5 +10,5 @@ jobs:
         with:
           node-version: 16
       - name: rank
-        run: node ./gen_list.js > rank.md
+        run: node ./.github/gen_list.js > rank.md
       - uses: stefanzweifel/git-auto-commit-action@v4
