@@ -1,6 +1,1 @@
-map(1:9) do x
-    map(1:x) do y
-        print("$x x $y = $(x*y)\t")
-    end
-    println()
-end
+map(1:9)do x map(1:x)do y "$y*$x=$(x*y)\t"end|>join|>println end
