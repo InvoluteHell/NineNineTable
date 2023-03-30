@@ -31,6 +31,7 @@
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [bakashigure](bakashigure)                                    | 66 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
 | [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
+| [FutabaRio](FutabaRio)                                        |  70 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [玩水](玩水)                                                   | 71 Bytes  | JavaScript      | 关注嘉然，顿顿解馋！ |
