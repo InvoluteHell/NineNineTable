@@ -1,1 +1,1 @@
-fn main(){for i in 0..=9{for j in 1..=i{print!("{j}x{i}={}\t",j*i)}println!()}}
+fn main(){for i in 1..=9{for j in 1..=i{print!("{j}x{i}={}\t",j*i)}println!()}}
