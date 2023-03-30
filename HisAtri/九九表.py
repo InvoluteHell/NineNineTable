@@ -50,9 +50,13 @@ def c_multiply(北部玄驹, 我老婆):
     
 def c_arraynine():
     玛丽 = []
-    pass
+    群rbq = 0
+    while(群rbq <= 9):
+        群rbq = c_add(群rbq, 1)
+        玛丽.append(群rbq)
+    return 玛丽
 
-a = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+a = c_arraynine()
 for i in a:
     j = 1
     while j <= i:
