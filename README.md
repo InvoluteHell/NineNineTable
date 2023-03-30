@@ -27,7 +27,6 @@
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
-| [zsqw123](zsqw123)                                             | 62 Bytes  | Groovy       | 再来个 jvm 语言 |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [uye](uye)                                                    |  65 Bytes  | Python         | 透透鼹鼠 |
 | [bakashigure](bakashigure)                                    | 66 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
