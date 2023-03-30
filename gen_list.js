@@ -4,16 +4,23 @@ const path = require('path');
 async function dirSize(dirPath) {
   let minSize = Number.MAX_SAFE_INTEGER;
   const files = await fs.promises.readdir(dirPath, { withFileTypes: true });
-  for (const file of files) {
+  const exts = ['.md', '.jpg', '.png', '.jpeg', '.log', '.gitignore', '.props', '.json'];
+  const filteredFiles = files.filter(file => {
+    const ext = path.extname(file.name);
+    return !file.name.startsWith('.') && !exts.includes(ext);
+  });
+  const sizes = filteredFiles.map(async file => {
     const filePath = path.join(dirPath, file.name);
     const stats = await fs.promises.stat(filePath);
-    if (stats.isFile() && path.extname(filePath) !== '.md') {
-      if (stats.size < minSize) {
-        minSize = stats.size;
-      }
+    if (stats.isDirectory()) {
+      return await dirSize(filePath);
     }
-  }
-  return minSize;
+    return stats.size;
+  });
+  return await Promise.all(sizes).then(sizes => {
+    const minSizeInDir = Math.min(...sizes);
+    return minSizeInDir === Number.MAX_SAFE_INTEGER ? 0 : minSizeInDir;
+  });
 }
 
 async function main() {
@@ -26,22 +33,8 @@ async function main() {
     }
     const key = dir.name;
     const dirPath = path.join(currentPath, key);
-    const files = await fs.promises.readdir(dirPath, { withFileTypes: true });
-    let minSize = Number.MAX_SAFE_INTEGER;
-    let count = 0;
-    for (const file of files) {
-      if (file.name.startsWith('.')) {
-        continue;
-      }
-      const filePath = path.join(dirPath, file.name);
-      const stats = await fs.promises.stat(filePath);
-      const value = stats.isFile() ? stats.size : await dirSize(filePath);
-      if (value < minSize) {
-        minSize = value;
-      }
-      count++;
-    }
-    if (count === 0) {
+    const minSize = await dirSize(dirPath);
+    if (minSize === 0) {
       continue;
     }
     userSizeMap.set(key, minSize);
