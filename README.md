@@ -34,9 +34,11 @@
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [bakashigure](bakashigure)                                    | 66 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
 | [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
+| [FutabaRio](FutabaRio)                                        |  70 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
 | [玩水](玩水)                                                   | 71 Bytes  | JavaScript      | 关注嘉然，顿顿解馋！ |
+| [XiaoMiku01](XiaoMiku01)                                  |  71 Bytes  | [GoPlus](https://github.com/goplus)        | go不能压，gop还能压！ |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
 | [鬼才](鬼才)                                                   |  75 Bytes | Kotlin          | 作者很懒，什么都没有说.jpg  |
 | [谦虚](谦虚)                                                  |  77 Bytes  | JavaScript          | 作者很懒，什么都没有说.jpg |
@@ -52,7 +54,7 @@
 | [XiaoMiku01](XiaoMiku01)                                  |  100 Bytes  | Go        | 我不信go还能再压了 |
 | [酱香大冰糕](酱香大冰糕)                                        |  101 Bytes  | CPP               | 作者很懒，什么都没有说.jpg |
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
-| [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
+| [Ykong](Ykong)                                                |  79 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
@@ -73,6 +75,7 @@
 | [mizusato](mizusato)                                         | 293 Bytes  | [RxScript](https://rxgui.readthedocs.io/) | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
+| [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
 | [HisAtri](HisAtri)                                         |  3039 Bytes |Python           | 卷 |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
