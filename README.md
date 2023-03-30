@@ -33,6 +33,7 @@
 | [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
+| [玩水](玩水)                                                   | 71 Bytes  | JavaScript      | 关注嘉然，顿顿解馋！ |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
 | [鬼才](鬼才)                                                   |  75 Bytes | Kotlin          | 作者很懒，什么都没有说.jpg  |
 | [谦虚](谦虚)                                                  |  77 Bytes  | JavaScript          | 作者很懒，什么都没有说.jpg |
