@@ -42,6 +42,7 @@
 | [Horror Proton](horror-prpton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
+| [帝宝](帝宝)                                                  |  91 Bytes  | Haskell         | 许佬呜呜许佬许佬快写一个|
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
 | [酱香大冰糕](酱香大冰糕)                                        |  101 Bytes  | CPP               | 作者很懒，什么都没有说.jpg |
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
@@ -77,6 +78,7 @@
 - 参与奖 2: 随机抽一名，一张 `KFC V50` 卡，由 [@bakashigure](bakashigure) 赞助
 - 参与奖 3: 随机抽一名，一张 `KFC V50` 卡，由 [@群守夜人](https://github.com/nvkou) 赞助
 - 参与奖 4: 随机抽一名，一份白丝图集 ~~（？这是否）~~，由 [@WPX](https://github.com/WWPXX233) 赞助
+- 参与奖 5: 随机抽一名，一张 `KFC V50` 卡，由 [@TTTTTTTT-Teio](https://github.com/TTTTTTTT-Teio) 赞助
 
 ## 比赛时间
 
