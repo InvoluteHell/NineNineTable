@@ -1,1 +1,1 @@
-open List def main := println! foldl (λ x y=>x++foldl (λ s t=>s!"{s}{t}*{y}={t*y}\t") "" (map (·+1) (range y))++"\n") "" (map (·+1) (range 9))
+open List def main:=println! range 9|>map (·+1)|>foldl (λ x y=>x++foldl (λ s t=>s!"{s}{t}*{y}={t*y}\t") "" (range y|>map (·+1))++"\n") ""
