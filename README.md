@@ -21,11 +21,12 @@
 
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
-| [uye](uye)                                                   |  42 Bytes  | Powershell      | 透透熊！ |
+| [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
 | [DavidWang19](DavidWang19)                                   |  44 Bytes | Mathematica      | 作者很懒，什么都没有说.jpg |
 | [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
+| [lhhxxxxx](lhhxxxxx)                                             | 56 Bytes  | Perl       | lhhxxxxx |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
@@ -33,6 +34,7 @@
 | [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
 | [cnachen](cnachen)                                            |  71 Bytes | lua             | 作者很懒，什么都没有说.jpg |
 | [abai](abai)                                                  | 71 Bytes  | Python          | 摆了 |
+| [玩水](玩水)                                                   | 71 Bytes  | JavaScript      | 关注嘉然，顿顿解馋！ |
 | [jcjrobert](jcjrobert)                                        | 72 Bytes  | Python          | 作者不懒，什么都说了.gif |
 | [鬼才](鬼才)                                                   |  75 Bytes | Kotlin          | 作者很懒，什么都没有说.jpg  |
 | [谦虚](谦虚)                                                  |  77 Bytes  | JavaScript          | 作者很懒，什么都没有说.jpg |
@@ -43,6 +45,7 @@
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [帝宝](帝宝)                                                  |  91 Bytes  | Haskell         | 许佬呜呜许佬许佬快写一个|
+| [源文雨](fumiama)                                                  |  98 Bytes  | 6502机器码         | 详见 [650299](https://github.com/fumiama/650299)|
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
 | [XiaoMiku01](XiaoMiku01)                                  |  100 Bytes  | Go        | 我不信go还能再压了 |
 | [酱香大冰糕](酱香大冰糕)                                        |  101 Bytes  | CPP               | 作者很懒，什么都没有说.jpg |
@@ -50,11 +53,13 @@
 | [Ykong](Ykong)                                                |  103 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
+| [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
 | [XiaoX](XiaoX)                                                | 115 Bytes | JavaScript        | 菜！                  |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
+| [kokic](kokic)                                               |  147 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! | 
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
 | [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
@@ -62,6 +67,7 @@
 | [mnixry](mnixry)                                              |  273 Bytes  | Python        | 摸了 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [src](src)                                                   | 286 Bytes  | Java             | 作者很懒，什么都没有说.jpg |
+| [mizusato](mizusato)                                         | 293 Bytes  | [RxScript](https://rxgui.readthedocs.io/) | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
 | [HisAtri](HisAtri)                                         |  3039 Bytes |Python           | 卷 |
