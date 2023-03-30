@@ -59,6 +59,7 @@
 | [src](src)                                                   | 286 Bytes  | Java             | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
+| [HisAtri](HisAtri)                                         |  3039 Bytes |Python           | 卷 |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
 
