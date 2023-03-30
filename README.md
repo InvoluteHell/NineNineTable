@@ -43,6 +43,7 @@
 | [谦虚](谦虚)                                                  |  77 Bytes  | JavaScript          | 作者很懒，什么都没有说.jpg |
 | [Yaossg](Yaossg) | 78 Bytes | C | 这才是 C 语言该有的样子 |
 | [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
+| [Ykong](Ykong)                                                |  79 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [奶油面包拳](奶油面包拳)                                        | 82 Bytes   | PHP            | PHP没有未来               |
 | [Horror Proton](horror-proton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
@@ -55,7 +56,6 @@
 | [XiaoMiku01](XiaoMiku01)                                  |  100 Bytes  | Go        | 我不信go还能再压了 |
 | [酱香大冰糕](酱香大冰糕)                                        |  99 Bytes  | CPP               | 作者很懒，什么都没有说.jpg |
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
-| [Ykong](Ykong)                                                |  79 Bytes  | Rust           | 作者很懒，什么都没有说.jpg |
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
@@ -74,6 +74,7 @@
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [src](src)                                                   | 286 Bytes  | Java             | 作者很懒，什么都没有说.jpg |
 | [mizusato](mizusato)                                         | 293 Bytes  | [RxScript](https://rxgui.readthedocs.io/) | 作者很懒，什么都没有说.jpg |
+| [氷川凛](HikawaRin)                                                  |  362 Bytes  | MSBuild with C# | 我看见有人在黑C# |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
 | [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
