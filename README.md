@@ -81,7 +81,7 @@
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
 | [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
-| [HisAtri](HisAtri)                                         |  3039 Bytes |Python           | 卷 |
+| [HisAtri](HisAtri)                                         |  7795 Bytes |Python           | 卷 |
 | [Jiang-Red](Jiang-Red)                                       | 4287 Bytes | Brainfuck | 面向结果编程 |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 13567 Bytes | JavaScript       | 我不跟你们争最少的，但我一定是第二大的 |
