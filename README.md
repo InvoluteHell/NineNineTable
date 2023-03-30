@@ -59,10 +59,10 @@
 | [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
 | [XiaoX](XiaoX)                                                | 115 Bytes | JavaScript        | 菜！                  |
+| [kokic](kokic)                                               |  116 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
-| [kokic](kokic)                                               |  147 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
 | [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
