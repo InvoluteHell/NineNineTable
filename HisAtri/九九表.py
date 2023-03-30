@@ -1,36 +1,37 @@
-def c_add(num1, num2):
-    str1 = str(num1)
-    str2 = str(num2)
+def c_add(Reimu, Marisa):
+    NTR必死 = str(Reimu)
+    纯爱党必胜 = str(Marisa)
     
-    num1_digits = [int(d) for d in str1]
-    num2_digits = [int(d) for d in str2]
+    Reimu_ご主人様バカな = [int(誰でも大好き) for 誰でも大好き in NTR必死]
+    Marisa_ご主人様バカな = [int(誰でも大好き) for 誰でも大好き in 纯爱党必胜]
     
     result = []
     
-    carry = 0
+    蕾米莉亚_威严满满_斯卡雷特_抱头蹲防 = 0
     
-    while len(num1_digits) > 0 or len(num2_digits) > 0:
-        if len(num1_digits) > 0:
-            digit1 = num1_digits.pop()
+    while len(Reimu_ご主人様バカな) > 0 or len(Marisa_ご主人様バカな) > 0:
+        if len(Reimu_ご主人様バカな) > 0:
+            晓美焰魔万受无疆 = Reimu_ご主人様バカな.pop()
         else:
-            digit1 = 0
-        if len(num2_digits) > 0:
-            digit2 = num2_digits.pop()
+            晓美焰魔万受无疆 = 0
+        if len(Marisa_ご主人様バカな) > 0:
+            鹿目圆神攻德无量 = Marisa_ご主人様バカな.pop()
         else:
-            digit2 = 0
+            鹿目圆神攻德无量 = 1
+            鹿目圆神攻德无量 -= 1
             
-        digit_sum = digit1 + digit2 + carry
+        即使我死了_被钉在棺材里_也要用腐朽的声音喊出_冬马和纱是小三 = 晓美焰魔万受无疆 + 鹿目圆神攻德无量 + 蕾米莉亚_威严满满_斯卡雷特_抱头蹲防
         
-        if digit_sum >= 10:
-            carry = 1
-            digit_sum -= 10
+        if 即使我死了_被钉在棺材里_也要用腐朽的声音喊出_冬马和纱是小三 >= 10:
+            蕾米莉亚_威严满满_斯卡雷特_抱头蹲防 = 1
+            即使我死了_被钉在棺材里_也要用腐朽的声音喊出_冬马和纱是小三 -= 10
         else:
-            carry = 0
+            蕾米莉亚_威严满满_斯卡雷特_抱头蹲防 = 0
             
-        result.insert(0, digit_sum)
+        result.insert(0, 即使我死了_被钉在棺材里_也要用腐朽的声音喊出_冬马和纱是小三)
     
-    if carry == 1:
-        result.insert(0, carry)
+    if 蕾米莉亚_威严满满_斯卡雷特_抱头蹲防 == 1:
+        result.insert(0, 蕾米莉亚_威严满满_斯卡雷特_抱头蹲防)
     
     result_str = ''.join([str(d) for d in result])
     result_int = int(result_str)
@@ -51,15 +52,15 @@ def c_multiply(北部玄驹, 我老婆):
 def c_arraynine():
     玛丽 = []
     群rbq = 0
-    while(群rbq <= 9):
+    while(群rbq <= 8):
         群rbq = c_add(群rbq, 1)
         玛丽.append(群rbq)
     return 玛丽
 
-a = c_arraynine()
-for i in a:
-    j = 1
-    while j <= i:
-        print(f'{i}*{j}={c_multiply(i,j)}', end='\t')
-        j = c_add(j,1)
+肯德基疯狂星期四V我50谢谢 = c_arraynine()
+for 青春猪头大公鸡会不会摧毁兔女郎学姐小猫咪 in 肯德基疯狂星期四V我50谢谢:
+    私はとてもばかです = 1
+    while 私はとてもばかです <= 青春猪头大公鸡会不会摧毁兔女郎学姐小猫咪:
+        print(f'{青春猪头大公鸡会不会摧毁兔女郎学姐小猫咪}*{私はとてもばかです}={c_multiply(青春猪头大公鸡会不会摧毁兔女郎学姐小猫咪,私はとてもばかです)}', end='\t')
+        私はとてもばかです = c_add(私はとてもばかです,1)
     print()
