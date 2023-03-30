@@ -1,0 +1,13 @@
+name: rank-actions
+on: [push]
+jobs:
+  check-beancount:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: rank
+        run: node ./gen_list.js > rank.md
