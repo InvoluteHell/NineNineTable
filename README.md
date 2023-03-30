@@ -21,7 +21,7 @@
 
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
-| [lhhxxxxx](lhhxxxxx)                                             | 34 Bytes  | Mathematica       | lhhxxxxx |
+| [lhhxxxxx](lhhxxxxx)                                             | 34 Bytes  | Mathematica       | 有人犯蠢了 |
 | [DavidWang19](DavidWang19)                                   |  36 Bytes | Mathematica      | 论Unicode |
 | [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
 | [Horror Proton](horror-proton)                                | 39 Bytes   | Mathematica       | 作者很懒，什么都没有说.jpg |
