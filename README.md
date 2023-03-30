@@ -30,7 +30,7 @@
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
-| [mizu-bai](mizu-bai/Julia)                                    |  64 Bytes | Julia            | 哼哼哼啊啊啊啊啊啊啊啊啊啊啊啊 |
+| [mizu-bai](mizu-bai)                                    |  64 Bytes | Julia            | 哼哼哼啊啊啊啊啊啊啊啊啊啊啊啊 |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [bakashigure](bakashigure)                                    | 66 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
 | [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
@@ -51,7 +51,6 @@
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [帝宝](帝宝)                                                  |  91 Bytes  | Haskell         | 许佬呜呜许佬许佬快写一个|
-| [mizu-bai](mizu-bai/Fortran)                                 | 92 Bytes | Fortran 90   | 来点上古语言           |
 | [源文雨](fumiama)                                                  |  98 Bytes  | 6502机器码         | 详见 [650299](https://github.com/fumiama/650299)|
 | [氷川凛](HikawaRin)                                                  |  99 Bytes  | bash | 99 Bytes，事Bash |
 | [加菲老猫](GarfieldTheOldCat)                                  |  100 Bytes  | Python        | 作者很懒，什么都说了.jpg |
@@ -69,7 +68,6 @@
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [bigonion](bigonion)                                             | 128 Bytes  | Typescript       | markdown 输！ |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
-| [mizu-bai](mizu-bai/FORTRAN77)                               | 147 Bytes   | FORTRAN77        | 大概是参赛里年龄最大的语言了吧 |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
 | [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
@@ -87,7 +85,6 @@
 | [Jiang-Red](Jiang-Red)                                       | 4287 Bytes | Brainfuck | 面向结果编程 |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 13567 Bytes | JavaScript       | 我不跟你们争最少的，但我一定是第二大的 |
-| [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
 | [Ykong](Ykong)                                                |  18123 Bytes  | WebAssembly          | 作者很懒，什么都没有说.jpg |
 
 ## 参赛方式
