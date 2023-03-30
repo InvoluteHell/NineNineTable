@@ -1,4 +1,10 @@
 
+# 环境
+```
+$ lean --version
+Lean (version 4.0.0-nightly-____, commit ____, Release)
+```
+
 # 运行
 
 ##  [ninenine.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine.lean)
