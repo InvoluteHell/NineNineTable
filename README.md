@@ -24,6 +24,7 @@
 | [DavidWang19](DavidWang19)                                   |  44 Bytes | Mathematica      | 作者很懒，什么都没有说.jpg |
 | [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
+| [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
