@@ -1,0 +1,1 @@
+program n;do i=1,9;do j=1,i;print'(i2,a1,i1,a1,i2,$)',j,"x",i,"=",i*j;enddo;print*;enddo;end
