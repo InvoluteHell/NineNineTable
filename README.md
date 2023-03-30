@@ -56,7 +56,6 @@
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
-| [麦子](maizijun2333)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
 | [mnixry](mnixry)                                              |  273 Bytes  | Python        | 摸了 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
