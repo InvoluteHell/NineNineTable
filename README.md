@@ -66,7 +66,7 @@
 | [mnixry](mnixry)                                              |  273 Bytes  | Python        | 摸了 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [src](src)                                                   | 286 Bytes  | Java             | 作者很懒，什么都没有说.jpg |
-| [mizusato](mizusato)                                         | 293 Bytes  | RxScript         | https://rxgui.readthedocs.io/ |
+| [mizusato](mizusato)                                         | 293 Bytes  | [RxScript](https://rxgui.readthedocs.io/) | 作者很懒，什么都没有说.jpg |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
 | [HisAtri](HisAtri)                                         |  3039 Bytes |Python           | 卷 |
