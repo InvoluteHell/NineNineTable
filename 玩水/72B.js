@@ -1,0 +1,1 @@
+for(i=1;i<10;i++){for(r=j='';j<i;)r+=++j+`x${i}=${i*j} `;console.log(r)}
