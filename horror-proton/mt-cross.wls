@@ -1,0 +1,1 @@
+Grid@Table[Cross[i,j]==i*j,{i,9},{j,i}]

@@ -23,6 +23,7 @@
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
 | [DavidWang19](DavidWang19)                                   |  36 Bytes | Mathematica      | 论Unicode |
 | [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
+| [Horror Proton](horror-proton)                                | 39 Bytes   | Mathematica       | 作者很懒，什么都没有说.jpg |
 | [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
@@ -41,7 +42,7 @@
 | [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [奶油面包拳](奶油面包拳)                                        | 82 Bytes   | PHP            | PHP没有未来               |
-| [Horror Proton](horror-prpton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
+| [Horror Proton](horror-proton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [帝宝](帝宝)                                                  |  91 Bytes  | Haskell         | 许佬呜呜许佬许佬快写一个|
