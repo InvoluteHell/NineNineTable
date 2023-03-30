@@ -1,7 +1,7 @@
 name: rank-actions
 on: [push]
 jobs:
-  check-beancount:
+  rank:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
