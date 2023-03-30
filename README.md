@@ -30,6 +30,7 @@
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
+| [mizu-bai](mizu-bai)                                          |  64 Bytes | Julia            | 哼哼哼啊啊啊啊啊啊啊啊啊啊啊啊 |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
 | [bakashigure](bakashigure)                                    | 66 Bytes   | PHP             | 哼哼哼 啊啊啊啊啊啊啊啊啊啊啊 |
 | [鼹鼠](鼹鼠)                                                   |  69 Bytes  | Python        | 作者很懒，什么都没有说.jpg |
