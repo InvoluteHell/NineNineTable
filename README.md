@@ -49,6 +49,7 @@
 | [知秋](知秋)                                                  |  103 Bytes  | nodejs          | 作者很懒，什么都没有说.jpg |
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
+| [XiaoX](XiaoXKKK)                                             | 115 Bytes | JavaScript        | 菜！                  |
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
