@@ -1,0 +1,1 @@
+main(i,j){for(i=0;i++<9;puts(""))for(j=0;j++<i;printf("%dx%d=%-4d",j,i,i*j));}

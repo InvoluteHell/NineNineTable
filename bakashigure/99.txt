@@ -1,0 +1,2 @@
+'for(;$i++<9;print"
+")for($j=0;$j++<$i;)echo$j."x$i=".$i*$j."\t";'

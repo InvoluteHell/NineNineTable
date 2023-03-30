@@ -1,0 +1,9 @@
+namespace ::
+entry {
+    ShowWindow(Window($('99'), new Grid { RowSpacing: 10, Items: {
+        @map* a = Count(9), let A = (a + 1),
+        @map  b = Count(A), let B = (b + 1),
+        let text = String(B,'*',A,'=',(B * A)),
+        Span { item: text, row: a, column: b }
+    }}))
+}
