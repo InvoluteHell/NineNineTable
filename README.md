@@ -77,6 +77,7 @@
 | [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
 | [HisAtri](HisAtri)                                         |  3039 Bytes |Python           | 卷 |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
+| [Helloworld](Helloworld)                                     | 13567 Bytes | JavaScript       | 我不跟你们争最少的，但我一定是第二大的 |
 | [Helloworld](Helloworld)                                     | 17621 Bytes | C#               | 我不跟你们争最少的，但我一定是最大的 |
 
 ## 参赛方式
