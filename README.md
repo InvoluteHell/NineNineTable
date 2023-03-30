@@ -21,8 +21,8 @@
 
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
+| [DavidWang19](DavidWang19)                                   |  36 Bytes | Mathematica      | 论Unicode |
 | [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
-| [DavidWang19](DavidWang19)                                   |  44 Bytes | Mathematica      | 作者很懒，什么都没有说.jpg |
 | [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
