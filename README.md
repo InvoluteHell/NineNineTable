@@ -21,12 +21,13 @@
 
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
+| [lhhxxxxx](lhhxxxxx)                                             | 34 Bytes  | Mathematica       | 有人犯蠢了 |
+| [DavidWang19](DavidWang19)                                   |  34 Bytes | Mathematica      | 论犯蠢 |
 | [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
-| [DavidWang19](DavidWang19)                                   |  44 Bytes | Mathematica      | 作者很懒，什么都没有说.jpg |
+| [Horror Proton](horror-proton)                                | 39 Bytes   | Mathematica       | 作者很懒，什么都没有说.jpg |
 | [tursom](tursom)                                             | 52 Bytes  | Kotlin Script       | 这个优化很邪门 |
 | [熊师傅](otakuma)                                             | 53 Bytes  | Powershell       | 作者很懒，什么都没有说.jpg |
 | [zsqw123](zsqw123)                                             | 56 Bytes  | Ruby       | zsqw123 |
-| [lhhxxxxx](lhhxxxxx)                                             | 56 Bytes  | Perl       | lhhxxxxx |
 | [dantmnf](dantmnf)                                            | 60 Bytes  | Ruby            | 作者很懒，什么都没有说.jpg |
 | [龟龟](guigui)                                                |  62 Bytes | Kotlin Script    | 作者很懒，什么都没有说.jpg |
 | [duskmelon](duskmelon)                                        | 65 Bytes  | R               | 作者很懒，什么都没有说.jpg |
@@ -41,7 +42,7 @@
 | [HChenZi](HChenZi)                                            |  79 Bytes  | nodejs         | 作者很懒，什么都没有说.jpg |
 | [Ns2Kracy](Ns2Kracy)                                          |  82 Bytes  | Shell          | 作者很懒，什么都没有说.jpg |
 | [奶油面包拳](奶油面包拳)                                        | 82 Bytes   | PHP            | PHP没有未来               |
-| [Horror Proton](horror-prpton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
+| [Horror Proton](horror-proton)                                | 84 Bytes   | Shell            | 作者很懒，什么都没有说.jpg |
 | [dragove](dragove)                                            | 85 Bytes   | Scala          | 作者很懒，什么都没有说.jpg |
 | [Alisa](Alisa)                                                |  91 Bytes  | Python         | 作者很懒，什么都没有说.jpg |
 | [帝宝](帝宝)                                                  |  91 Bytes  | Haskell         | 许佬呜呜许佬许佬快写一个|
@@ -59,11 +60,12 @@
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
-| [kokic](kokic)                                               |  147 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! | 
+| [kokic](kokic)                                               |  147 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
-| [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
-| [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg | 
+| [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
+| [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
+| [StupidBh](StupidBh)                                           |  216 Bytes  | Cpp             | dms,hszj! |
 | [mnixry](mnixry)                                              |  273 Bytes  | Python        | 摸了 |
 | [谓道之求](谓道之求)                                           |  281 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [src](src)                                                   | 286 Bytes  | Java             | 作者很懒，什么都没有说.jpg |
