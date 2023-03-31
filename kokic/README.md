@@ -5,9 +5,29 @@ $ lean --version
 Lean (version 4.0.0-nightly-____, commit ____, Release)
 ```
 
+**注意: 为压缩长度, 输出阶段现已改为类型检查期, 如果希望在运行期得到结果可以将 `#eval` 改为 ` def main:=`**
+
+# 检查
+## [ninenine-iota.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine-iota.lean) (110 Bytes)
+
+打开源文件, 将鼠标光标置于当前行任意位置. 打开 Lean Infoview. Message 处可见
+```
+▼ Messages (1)
+ ▼ ninenine-iota.lean:1:9
+9*9=81	8*9=72	7*9=63	6*9=54	5*9=45	4*9=36	3*9=27	2*9=18	1*9=9	
+8*8=64	7*8=56	6*8=48	5*8=40	4*8=32	3*8=24	2*8=16	1*8=8	
+7*7=49	6*7=42	5*7=35	4*7=28	3*7=21	2*7=14	1*7=7	
+6*6=36	5*6=30	4*6=24	3*6=18	2*6=12	1*6=6	
+5*5=25	4*5=20	3*5=15	2*5=10	1*5=5	
+4*4=16	3*4=12	2*4=8	1*4=4	
+3*3=9	2*3=6	1*3=3	
+2*2=4	1*2=2	
+1*1=1	
+```
+
 # 运行
 
-##  [ninenine.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine.lean) (142 Bytes)
+##  [ninenine.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine.lean)
 
 ```
 $ lean ninenine.lean --run
@@ -26,7 +46,7 @@ $ lean ninenine.lean --run
 1*9=9   2*9=18  3*9=27  4*9=36  5*9=45  6*9=54  7*9=63  8*9=72  9*9=81
 ```
 
-## [ninenine-iota.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine-iota.lean) (116 Bytes)
+## [ninenine-iota.lean](https://github.com/kokic/NineNineTable/blob/master/kokic/ninenine-iota.lean)
 
 ```
 $ lean ninenine-iota.lean --run
