@@ -82,6 +82,7 @@
 | [氷川凛](HikawaRin)                                                  |  362 Bytes  | MSBuild with C# | 我看见有人在黑C# |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
+| [foxwhite25](foxwhite25)                                      | 649 Bytes | Piet |            没想到这图片还不是最后，png优化也算优化（？             |
 | [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
 | [一直大鸽子](一直大鸽子)                          |   3377 Bytes    |       GLSL shadertoy        |        虽然这个垃圾的for循环是我写的 但是sdf是抄的大佬的        |
 | [HisAtri](HisAtri)                                         |  7795 Bytes |Python           | 卷 |
