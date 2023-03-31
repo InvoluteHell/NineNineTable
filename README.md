@@ -21,7 +21,7 @@
 
 |                             作者                             |   体积    |       语言        |                             留言                                            |
 | :----------------------------------------------------------: | :-------: | :--------------: | :------------------------------------------------------------------------: |
-| [Hyc](Hyc)                                             | 21 Bytes  | [05AB1E](https://github.com/Adriandmen/05AB1E) ([try here](https://tio.run/#osabie)) | 鲨鲨可爱 |
+| [Hyc](Hyc)                                             | 20 Bytes  | [05AB1E](https://github.com/Adriandmen/05AB1E) ([try here](https://tio.run/#osabie)) | 鲨鲨可爱 |
 | [lhhxxxxx](lhhxxxxx)                                             | 34 Bytes  | Mathematica       | 有人犯蠢了 |
 | [DavidWang19](DavidWang19)                                   |  34 Bytes | Mathematica      | 论犯蠢 |
 | [uye](uye)                                                   |  39 Bytes  | Powershell      | 透透熊！ |
