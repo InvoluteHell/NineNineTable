@@ -68,6 +68,7 @@
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [bigonion](bigonion)                                             | 128 Bytes  | Typescript       | markdown 输！ |
+| [wniko](wniko)                                             | 140 Bytes  | Batch       | 好崩溃 |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
 | [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
