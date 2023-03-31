@@ -61,6 +61,7 @@
 | [车前子](车前子)                                                |  104 Bytes  | Haskell           | 作者很懒，什么都没有说.jpg |
 | [blueskybone](blueskybone)                                   |  108 Bytes  | C               | 作者很懒，什么都没有说.jpg |
 | [soybean2](soybean2)                                         |  109 Bytes  | Python            | 作者很懒，什么都没有说.jpg |
+| [cglcv](cglcv)                                         |  109 Bytes  | MATLAB            | MATLAB永不认输.jpg（但还是寄了） |
 | [gyro永不抽风](gyro永不抽风)                                   |  110 Bytes  | Python           | 寄                      |
 | [kokic](kokic)                                               |  110 Bytes  | Lean4            | PHP 大胜, Lean4 惨败! |
 | [窝窝头](mr_cino)                                             |  113 Bytes  | [Woolang](https://github.com/cinogama/woolang) | 呜呜呜，窝窝头输了呜呜呜 |
