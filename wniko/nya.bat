@@ -1,0 +1,1 @@
+@setlocal EnableDelayedExpansion&for /l %%i in (1,1,9)do @set a=&(for /l %%j in (1,1,%%i)do @set/a r=%%j*%%i&set a=!a!%%jx%%i=!r!	)&echo !a!
