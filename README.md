@@ -68,6 +68,7 @@
 | [Konoha](Konoha)                                              | 124 Bytes | Python            | 氵，好想要玛丽的手冲** |
 | [煖風遲來](煖風遲來)                                           |  126 Bytes  | Cpp             | 作者很懒，什么都没有说.jpg |
 | [bigonion](bigonion)                                             | 128 Bytes  | Typescript       | markdown 输！ |
+| [萱](萱)                                             | 138 Bytes  | JAVA8       | 阿姨压一压~（~~不是为了白丝来的~~） |
 | [wniko](wniko)                                             | 140 Bytes  | Batch       | 好崩溃 |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
@@ -82,6 +83,7 @@
 | [氷川凛](HikawaRin)                                                  |  362 Bytes  | MSBuild with C# | 我看见有人在黑C# |
 | [哥斯拉](哥斯拉)                                              |  570 Bytes  | C                | 累死了.jpg(还能有人比我大？ |
 | [dzydoom](dzydoom)                                              |  626 Bytes  | x86 Assembly               | 大哥们带汇编玩玩吧|
+| [foxwhite25](foxwhite25)                                      | 649 Bytes | Piet |            没想到这图片还不是最后，png优化也算优化（？             |
 | [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
 | [一直大鸽子](一直大鸽子)                          |   3377 Bytes    |       GLSL shadertoy        |        虽然这个垃圾的for循环是我写的 但是sdf是抄的大佬的        |
 | [HisAtri](HisAtri)                                         |  7795 Bytes |Python           | 卷 |
