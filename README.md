@@ -90,11 +90,11 @@
 | [foxwhite25](foxwhite25)                                      | 649 Bytes | Piet |            没想到这图片还不是最后，png优化也算优化（？             |
 | [Horror Proton](horror-proton)                                | 1806 Bytes   | Cpp            | 编译期 ( |
 | [一直大鸽子](一直大鸽子)                          |   3377 Bytes    |       GLSL shadertoy        |        虽然这个垃圾的for循环是我写的 但是sdf是抄的大佬的        |
-| [HisAtri](HisAtri)                                         |  7795 Bytes |Python           | 卷 |
 | [Jiang-Red](Jiang-Red)                                       | 4287 Bytes | Brainfuck | 面向结果编程 |
 | [LuoRenMu](Luorenmu)                                         |  12 KiloByte | Java           | 你就说能不能跑吧 |
 | [Helloworld](Helloworld)                                     | 13567 Bytes | JavaScript       | 我不跟你们争最少的，但我一定是第二大的 |
 | [Ykong](Ykong)                                                |  18123 Bytes  | WebAssembly          | 作者很懒，什么都没有说.jpg |
+| [HisAtri](HisAtri)                                         |  26141 Bytes |Python           | 美咕噜天下第一！！！！！！！！！ |
 
 ## 参赛方式
 
