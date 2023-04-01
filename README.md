@@ -75,6 +75,7 @@
 | [wniko](wniko)                                             | 140 Bytes  | Batch       | 好崩溃 |
 | [cola](cola)                                                 |  144 Bytes  | C                | 带带萌新，大佬捞捞 |
 | [FuAon](FuAon)                                                 |  162 Bytes  | Go                | 大佬们带Go玩玩吧 |
+|[小小小水花](littlewater)                                    |  163 Bytes   | Java            | 作者很懒，什么都没有说.jpg |
 | [javilak](javilak)                                           |  192 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
 | [maizijun2333](麦子)                                           |  196 Bytes  | Cpp                | 作者很懒，什么都没有说.jpg |
 | [d3ara1n](d3ara1n)                                           |  215 Bytes  | CSharp           | 玛丽的的黑咖啡，难喝的黑咖啡嘿嘿 |
