@@ -105,16 +105,16 @@
 
 ## 奖品
 
-- 第一名：一箱难喝的无糖黑咖啡
-- 参与奖 1: 随机抽一名，一箱难喝的无糖黑咖啡，由 ~~你们伟大的群主~~ 玛丽赞助
-- 参与奖 2: 随机抽一名，一张 `KFC V50` 卡，由 [@bakashigure](bakashigure) 赞助
-- 参与奖 3: 随机抽一名，一张 `KFC V50` 卡，由 [@群守夜人](https://github.com/nvkou) 赞助
-- 参与奖 4: 随机抽一名，一份白丝图集 ~~（？这是否）~~，由 [@WPX](https://github.com/WWPXX233) 赞助
-- 参与奖 5: 随机抽一名，一张 `KFC V50` 卡，由 [@TTTTTTTT-Teio](https://github.com/TTTTTTTT-Teio) 赞助
+> - 第一名：一箱难喝的无糖黑咖啡
+> - 参与奖 1: 随机抽一名，一箱难喝的无糖黑咖啡，由 ~~你们伟大的群主~~ 玛丽赞助
+> - 参与奖 2: 随机抽一名，一张 `KFC V50` 卡，由 [@bakashigure](bakashigure) 赞助
+> - 参与奖 3: 随机抽一名，一张 `KFC V50` 卡，由 [@群守夜人](https://github.com/nvkou) 赞助
+> - 参与奖 4: 随机抽一名，一份白丝图集 ~~（？这是否）~~，由 [@WPX](https://github.com/WWPXX233) 赞助
+> - 参与奖 5: 随机抽一名，一张 `KFC V50` 卡，由 [@TTTTTTTT-Teio](https://github.com/TTTTTTTT-Teio) 赞助
 
 ## 比赛时间
 
-即刻起 ~ 本周日晚 10 点（北京时间 2023/4/2 22:00 pm）
+比赛结束，但还是欢迎各位提交 PR 哦~
 
 ## 讨论
 
